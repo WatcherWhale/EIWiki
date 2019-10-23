@@ -41,4 +41,4 @@ Dit kan heel simpel:
 Als je een kleine opmerking hebt of een spelfout vond, kan je ook altijd een [issue](https://github.com/WatcherWhale/EI-Wiki/issues) openen.
 
 ## Ter info
-Bouwkunde is stom! 
+Bouwkunde is stom!!
